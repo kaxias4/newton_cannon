@@ -1,2 +1,2 @@
-# newton_cannon
+# Newton Cannon
 Newton Cannon simulation
