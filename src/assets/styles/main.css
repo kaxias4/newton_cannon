@@ -75,6 +75,24 @@
   z-index: 3;
 }
 
+.cannon {
+  width: 50px;
+  height: 50px;
+  background: transparent url("../images/cannon.png") no-repeat;
+  background-size: 50px 50px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 50px;
+  margin-left: -25px;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  margin-top: -150px;
+  position: absolute;
+  display: block;
+  z-index: 4;
+}
+
 .grid {
   position: absolute;
   top: 0;
